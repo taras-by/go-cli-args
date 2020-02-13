@@ -1,4 +1,4 @@
-# Go CL args
+# Go CLI args
 
 Implement command line interface in Go using the Package flag:
 https://golang.org/pkg/flag/
